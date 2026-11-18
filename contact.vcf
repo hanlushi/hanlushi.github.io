@@ -1,12 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
 N:Shi;Hanlu;;;
-FN:Hanlu (Chris) Shi
-NICKNAME:Chris
+FN:Hanlu Shi
 ORG:University of Melbourne
-TITLE:PhD Candidate
+TITLE:Graduate Researcher
 EMAIL;TYPE=INTERNET:hanlu.shi.1@student.unimelb.edu.au
-URL:https://astraybirdss.github.io/
+URL:https://hanlushi.github.io/
 URL:https://www.linkedin.com/in/hanlu-shi/
 NOTE:Met at OzCHI 2026, Adelaide
 END:VCARD
